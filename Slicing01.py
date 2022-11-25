@@ -6,4 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    s='codeschol'
+    s1=s[:4]
+    return s1
+print(main('s'))
