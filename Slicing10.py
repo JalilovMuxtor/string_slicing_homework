@@ -8,5 +8,5 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    return s[n::k]
+    return s[n:k:]
 print(main('codeschooluz',1,5))
