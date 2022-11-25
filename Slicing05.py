@@ -8,4 +8,4 @@ def main(s,n):
         str: answer
     """
     return s[n:]
-print(main('olisdagilar',-5))
+print(main('olisdagilar',5))
