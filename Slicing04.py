@@ -7,5 +7,5 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return s[:2]
-print(main('salomlar','2'))
+    return s[:n]
+print(main('salomlar',5))
